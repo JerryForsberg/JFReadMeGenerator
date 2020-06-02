@@ -3,7 +3,9 @@
  readme generator 
 
 ## Description 
- generates a readme for new projects using the terminal and node to creatwe the basic structure
+ generates a readme for new projects using the terminal and node to creatwe the basic structure.
+
+ Please visit the link to see the how the generator works https://jerryforsberg.github.io/JFReadMeGenerator/
 
 ## Table of Contents 
  1- Description
